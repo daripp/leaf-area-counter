@@ -1,0 +1,2 @@
+# leaf-area-counter
+This code is designed to count and quantify leaves in an image. The best way to do this is to lay the leaves flat on a piece of paper with a blue disk of known size in the upper left hand quarter. Do not allow any of the leaves to extend above or to the left of the disk so that it is always counted as 1. This code uses red, green, and blue channels to identify and quantify the area of leaves. These channels can be separated or stacked.
